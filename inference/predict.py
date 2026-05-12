@@ -2,7 +2,7 @@
 from ultralytics import YOLO
 
 # Load trained model
-model = YOLO("../models/best.pt")
+model = YOLO("models/best.pt")
 
 def predict(image_path):
     results = model.predict(image_path, save=True, conf=0.25)
