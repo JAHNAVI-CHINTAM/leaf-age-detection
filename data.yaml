@@ -1,0 +1,8 @@
+
+path: dataset
+train: train/images
+val: valid/images
+
+names:
+  0: young_leaf
+  1: old_leaf

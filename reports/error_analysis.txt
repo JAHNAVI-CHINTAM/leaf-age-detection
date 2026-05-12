@@ -1,0 +1,17 @@
+
+ERROR ANALYSIS - LEAF AGE DETECTION
+
+1. Problems faced:
+- Small leaves not detected
+- Overlapping leaves confuse model
+- Low lighting reduces accuracy
+
+2. Reasons:
+- Limited dataset size
+- Natural field variation
+- Similar appearance of young and old leaves
+
+3. Possible improvements:
+- Increase dataset size
+- Use data augmentation
+- Train longer (more epochs)

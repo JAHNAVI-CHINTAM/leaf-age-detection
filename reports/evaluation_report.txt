@@ -1,0 +1,7 @@
+
+Leaf Age Detection Evaluation Report
+
+Precision: 0.68
+Recall: 0.69
+mAP@50: 0.68
+mAP@50-95: 0.59
